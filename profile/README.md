@@ -8,11 +8,11 @@
 
 This repository includes the following major projects:
 
-- [**lethe**](lethe): A lightweight flat log database (DB) designed for efficient log storage and retrieval in Kubernetes environments.
-- [**venti**](venti): A metrics and logs data visualizer, providing powerful visualization tools to analyze and monitor your Kubernetes cluster's performance.
-- [**ingress-annotator**](ingress-annotator): A Kubernetes utility designed to dynamically manage ingress annotations based on predefined rules set in a ConfigMap. This tool simplifies the process of annotating ingresses in various namespaces, ensuring consistency and reducing manual configuration.
-- [**myip**](myip): A simple "What's my IP" application that allows users to quickly determine their public IP address within a Kubernetes environment.
-- [**helm-charts**](helm-charts): A collection of Helm charts, including those for deploying the venti-stack, myip, and other related tools, to streamline deployment and management in Kubernetes.
+- [**lethe**](https://github.com/kuoss/lethe): A lightweight flat log database (DB) designed for efficient log storage and retrieval in Kubernetes environments.
+- [**venti**](https://github.com/kuoss/venti): A metrics and logs data visualizer, providing powerful visualization tools to analyze and monitor your Kubernetes cluster's performance.
+- [**ingress-annotator**](https://github.com/kuoss/ingress-annotator): A Kubernetes utility designed to dynamically manage ingress annotations based on predefined rules set in a ConfigMap. This tool simplifies the process of annotating ingresses in various namespaces, ensuring consistency and reducing manual configuration.
+- [**myip**](https://github.com/kuoss/myip): A simple "What's my IP" application that allows users to quickly determine their public IP address within a Kubernetes environment.
+- [**helm-charts**](https://github.com/kuoss/helm-charts): A collection of Helm charts, including those for deploying the venti-stack, myip, and other related tools, to streamline deployment and management in Kubernetes.
 
 For detailed descriptions of each project, please refer to the README.md file in the respective project folder.
 
